@@ -86,7 +86,8 @@ After installing Etherape sometimes a GNOME error can occur, for which you insta
 
   
 ## Use:
-* python3 ghost_eye.py
-
-
+* sudo -i
+* source /root/ghost_eye/myenv/bin/activate
+* cd ghost_eye
+* python /root/ghost_eye/ghost_eye.py
 
